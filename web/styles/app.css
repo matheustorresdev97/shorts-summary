@@ -1,0 +1,15 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+#app > h1 {
+    color: #996dff;
+    margin-top: -5px;
+  }
+  
+#app > h2 {
+    align-self: flex-start;
+    margin-top: 64px;
+  }
